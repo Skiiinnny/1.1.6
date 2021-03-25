@@ -18,6 +18,7 @@ body {
 .resize {
     height: 200px;
     width: 200px;
+    position: relative;
     
 }
 
@@ -29,4 +30,8 @@ body {
     
 }
 
- 
+.p{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}
