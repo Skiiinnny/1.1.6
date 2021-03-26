@@ -1,6 +1,7 @@
 
 body{
-    background-image: url(https://image.freepik.com/vector-gratis/personaje-dibujos-animados-gato-siames-fisuras-fondo_52569-1345.jpg);
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://cdn.pixabay.com/photo/2018/01/11/23/16/woman-3077180_960_720.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -18,12 +19,14 @@ body{
     height: 200px;
     width: 200px;
     display: block;
+    border-radius: 20%;
 }
 
 .resize1{
     height: 500px;
     width: 500px;
     display: block;
+    bottom: 20px;
 }
 
 .service{
@@ -34,6 +37,7 @@ body{
     position: absolute;
     margin-top:-100px;
     margin-left: 300px;
+    font-size: large;
 }
 
 
@@ -47,6 +51,7 @@ body{
     position: absolute;
     margin-top:200px;
     margin-left: 800px;
+    
 }
 
 .a{
@@ -54,3 +59,8 @@ body{
     margin-left: 80%;
 }
 
+.gatos{
+    box-sizing: border-box;
+    padding: 50px;
+    margin: 20px;
+}
