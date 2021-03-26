@@ -20,6 +20,12 @@ body{
     display: block;
 }
 
+.resize1{
+    height: 500px;
+    width: 500px;
+    display: block;
+}
+
 .service{
     float: left;
 }
@@ -29,7 +35,22 @@ body{
     margin-top:-100px;
     margin-left: 300px;
 }
+
+
+.posicion1{
+    position: absolute;
+    margin-top:50px;
+    margin-left: 200px;
+}
+
+.posicion2{
+    position: absolute;
+    margin-top:200px;
+    margin-left: 800px;
+}
+
 .a{
     position: relative;
     margin-left: 80%;
 }
+
