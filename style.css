@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-image: url("https://ecogarantie.eu/wp-content/uploads/2020/01/shutterstock_646123120.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.div {
+    width: auto;
+    padding: 50px;
+    margin: 20px;
+}
+
+.parrafo {
+    text-align: center;
+}
+
+.resize {
+    height: 200px;
+    width: 200px;
+    position: relative;
+    
+}
+
+.servicios {
+    box-sizing: border-box;
+    float: inline-end;
+    padding: 50px;
+    margin: 20px;
+    
+}
+
+.p{
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 100px;
+}

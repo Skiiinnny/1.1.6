@@ -36,6 +36,7 @@ body{
     margin-left: 300px;
 }
 
+
 .posicion1{
     position: absolute;
     margin-top:50px;
@@ -47,3 +48,9 @@ body{
     margin-top:200px;
     margin-left: 800px;
 }
+
+.a{
+    position: relative;
+    margin-left: 80%;
+}
+
