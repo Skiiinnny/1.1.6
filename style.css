@@ -19,7 +19,7 @@ body {
     height: 200px;
     width: 200px;
     position: relative;
-    
+    border-radius:20%;
 }
 
 .servicios {
@@ -31,6 +31,7 @@ body {
 }
 
 .p{
+    font-size: large;
     position: absolute;
     margin-top: 100px;
     margin-left: 100px;

@@ -1,5 +1,6 @@
 body{
-    background-image: url(https://www.teahub.io/photos/full/228-2287571_fondos-de-pantalla-perros-salchichas.jpg);
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://cdn.pixabay.com/photo/2015/11/09/23/02/background-1036109_960_720.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
@@ -17,6 +18,7 @@ body{
     height: 200px;
     width: 200px;
     display: block;
+    border-radius: 20%;
 }
 
 .service{
@@ -27,8 +29,14 @@ body{
     position: absolute;
     margin-top: -100px;
     margin-left: 300px;
+    font-size: large;
 }
 .a{
     position: relative;
     margin-left: 80%;
+}
+.perros{
+    box-sizing: border-box;
+    padding: 50px;
+    margin: 20px;
 }

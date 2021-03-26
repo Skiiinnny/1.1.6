@@ -1,0 +1,32 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://cdn.pixabay.com/photo/2015/11/09/23/02/background-1036109_960_720.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+.div{
+    width: auto;
+    padding: 50px;
+    margin: 20px;
+}
+.a{
+    position: relative;
+    margin-left: 80%;
+}
+.posicion1{
+    position: absolute;
+    margin-top:50px;
+    margin-left: 200px;
+}
+.resize1{
+    height: 500px;
+    width: 500px;
+    display: block;
+    bottom: 20px;
+}
+.posicion2{
+    position: absolute;
+    margin-top:200px;
+    margin-left: 800px;
+    
+}
