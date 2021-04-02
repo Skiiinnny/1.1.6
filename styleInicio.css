@@ -67,6 +67,7 @@ body {
 
 .text {
     color: white;
+    
 }
 
 .text_b2 {
@@ -74,4 +75,6 @@ body {
     margin-left: 100px;
     margin-right: 100px;
     font-size: large;
+    color: white;
+    text-decoration:none;
 }
