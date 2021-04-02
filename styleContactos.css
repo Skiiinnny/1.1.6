@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    height: 100%;
+    background-image: url(https://cdn.pixabay.com/photo/2017/09/07/10/09/triangle-2724449_960_720.png);
+    background-size: cover;
+    background-repeat: none;
+    font-family: sans-serif;
+    color:darkslategray;
+}
+.contenedor{
+    background-color: red;
+    position: absolute;
+    height: 80%;
+    width: 80%;
+    left: 10%;
+    top: 10%;
+    opacity: 0.5;
+}
+.nombre{
+    background-color: white;
+    position: absolute;
+    left:20%;
+    top:20%;
+    height: 30px ;
+    width: 60%;
+    border-radius: 15px;    
+}
+.email{
+    background-color: white;
+    position: absolute;
+    left:20%;
+    top:30%;
+    height: 30px ;
+    width: 60%;
+    border-radius: 15px;    
+
+}
+.motivo{
+    background-color: white;
+    position: absolute;
+    left:20%;
+    top:40%;
+    width: 60%;
+    height: 30px ;
+    border-radius: 15px;    
+
+}
+.mensaje{
+    background-color: white;
+    position: absolute;
+    left:20%;
+    top:50%;
+    width: 60%;
+    height: 100px;
+    border-radius: 15px;    
+
+}
+.titulo{
+    text-align: center;
+    font-size: xx-large;
+    
+}
+.btn{
+    position: absolute;
+    top: 80%;
+    right: 20%;
+    height: 30px;
+    width: 60px;
+}
+.a{
+    position: relative;
+    margin-left: 80%;
+    top: 20px;
+}
